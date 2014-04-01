@@ -1,0 +1,15 @@
+#slider > li {
+	list-style: none;
+}
+.slider-prev,
+.slider-next {
+	color: #000;
+	font-size: 100px;
+	position: relative;
+}
+.slider-prev {
+	float: left;
+}
+.slider-next {
+	float: right;
+}
