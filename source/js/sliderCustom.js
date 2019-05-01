@@ -6,7 +6,6 @@
 */
 
 // Esperamos a la carga de la página para empezar...
-
 $(document).ready(function() {
 
 	// declaramos slider como objeto javascript...
